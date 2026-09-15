@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap'); /* IMPORTAR DA FONTE INTER */
+
+:root {
+
+    /* CORES DE FORMA GERAL */
+    --cor-principal: #5C87E2;
+    --cor-texto-titulo: var(--cor-principal);
+    --cor-texto-destaque: #FFFFFF;
+    --cor-texto-padrao: #A1A1A1;
+    --cor-fundo: #202020;
+
+    /* FONTE */
+    --fonte-principal: "Inter", sans-serif;
+    
+    --font-size-titulo-celular: 14px;
+    --font-size-titulo-desktop: 32px;
+    
+    --font-size-subtitulo-celular: 12px;
+    --font-size-subtitulo-desktop: 14px;
+    
+    --font-size-texto-celular: 8px;
+    --font-size-texto-desktop: 12px;
+    
+    --font-size-button-celular: 7px;
+    --font-size-button-desktop: 8px;
+    
+    --font-size-header-celular: 8px;
+    --font-size-header-desktop: 15px;
+
+    /* BOTÕES */
+    --cor-botao: var(--cor-principal);
+    --border-radios-botao: 5px 5px 5px 5px;
+    --padding-botao: 10px 5px 10px 5px;
+
+}
